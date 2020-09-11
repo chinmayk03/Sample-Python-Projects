@@ -1,0 +1,25 @@
+***************************************************************************
+GENERAL INFORMATION
+Name of programmer: Chinmay Keskar
+Course Details: ICS3U - Period 1 Computer Science
+***************************************************************************
+ASSIGMENT INFORMATION
+Unit 2.0 - Software Developement
+Due November 27th, 2019
+Programming language used: Python IDLE version 3.7.3
+***************************************************************************
+PROGRAM INFORMATION
+Name of program: Rock Paper Scissors - Chess Variation
+Description: The program allows the user to go head on against the computer by choosing Rook, Knight, or Bishop, done through the use of message boxes and descriptive illustrations.
+Assumptions: The user's computer must be running Python IDLE 3.7.3 to run this program. The user must also have easyGUI installed on their machine.
+Features: Imports easyGUI to be able to use message boxes and pictures, Imports random for the computer choice.
+***************************************************************************
+IMPLEMENTATION DETAILS
+Can be sent by E-mail or dropboxing.
+Computer required (any OS that can download and run Python 3.7.3).
+Python IDLE version 3.7.3 is needed to run this program.
+On the main help menu, user can click the start button to proceed with the program.
+***************************************************************************
+ADDITIONAL FILES
+External Documentation (This file)
+Correctly named images that were used throughout the program.
